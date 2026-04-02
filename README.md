@@ -1,3 +1,10 @@
+                                 
+                                #Leshan Martin#
+                                #I,Martin Leshan is a BIT Graduate, Network and Backend Engineer#
+                                
+
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)] (https://instagram.com/marles1) 
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Martin Leshan) 
